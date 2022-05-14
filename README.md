@@ -1,2 +1,2 @@
-# nz_ua_helper
-NZ.UA Helper
+# NZ.UA Helper
+This application is for topic plans uploading to electronic journals portal https://nz.ua.
